@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aditya Mallesh  
 
-🎓 M.Tech Computational & Data Science @ NITK Surathkal 2025-2027
-🎓 B.E. Electronics & Telecommunication  2020-2024
+🎓 M.Tech Computational & Data Science @ NITK Surathkal 2025-2027  
+🎓 B.E. Electronics & Telecommunication  2020-2024  
 📍 India  
 
 💡 Aspiring **Machine Learning / AI Engineer** with strong foundations in  
