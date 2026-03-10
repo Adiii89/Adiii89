@@ -55,7 +55,7 @@
 
 ## 📫 Contact & Links
 📧 Email: [adityamallesh773@gmail.com](mailto:adityamallesh773@gmail.com)  
-🔗 LinkedIn: www.linkedin.com/in/aditya-mallesh-669b94269  
+🔗 LinkedIn: www.linkedin.com/in/aditya-mallesh  
 🌐 Portfolio Website: https://adiii89.github.io/portfolio-website/  
 📊 Kaggle: https://www.kaggle.com/adityamallesh  
 ✍️ Medium: malleshaditya773.medium.com *(blogs coming soon)*  
