@@ -39,7 +39,7 @@
 
 ---
 ## 🔭 Currently Working On
-- **Personal Voice Assistant (Jarvis-style AI)**  
+- **Personal Voice Assistant**  
   → Speech Recognition | NLP | ML Integration  
 - **LLM Projects** (from scratch & applied)
 
