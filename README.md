@@ -4,7 +4,7 @@
 🎓 B.E. Electronics & Telecommunication  2020-2024  
 📍 India  
 
-💡 Aspiring **Machine Learning / AI Engineer** with strong foundations in  
+💡 **Machine Learning / AI Engineer** with strong foundations in  
 **Mathematics, Statistics, and Data Science**, and hands-on project experience.
 
 ---
